@@ -1,4 +1,4 @@
-# Election - DAPP Tutorial
+# BitVote - DAPP Tutorial
 
 Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!
 
@@ -17,6 +17,8 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 - Metamask: https://metamask.io/
 
 ## Step 1. Clone the project
+https://github.com/hasnat23/BitVote-A-Block-Chin-Voting-Application.git
+
 
 ## Step 2. Install dependencies
 
